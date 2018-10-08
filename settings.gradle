@@ -1,1 +1,1 @@
-include ':app', ':RelevanceLaunch1', ':RelevanceLaunch2', ':StepCounter'
+include ':app', ':RelevanceLaunch1', ':RelevanceLaunch2', ':StepCounter', ':BottomDialog'
